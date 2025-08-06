@@ -69,8 +69,3 @@ This project is continuously evolving as I explore more advanced topics such as 
 ## 📌 Why This Project?
 
 This project is a hands-on attempt to apply and understand practical machine learning by working on a healthcare-focused, real-world dataset. It helps me build intuition around ML workflows and strengthens my foundation as I transition deeper into the field.
-
----
-
-## 📂 Folder Structure
-
